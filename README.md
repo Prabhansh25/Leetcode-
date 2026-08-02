@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/Prabhansh25/Leetcode-/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/Prabhansh25/Leetcode-/tree/master/0088-merge-sorted-array) |
 ## Sorting
 |  |
@@ -30,4 +31,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Prabhansh25/Leetcode-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Linked List
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/Prabhansh25/Leetcode-/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->
