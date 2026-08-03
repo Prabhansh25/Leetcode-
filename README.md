@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Prabhansh25/Leetcode-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0088-merge-sorted-array](https://github.com/Prabhansh25/Leetcode-/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/Prabhansh25/Leetcode-/tree/master/0118-pascals-triangle) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Prabhansh25/Leetcode-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Binary Search
 |  |
@@ -35,4 +36,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/Prabhansh25/Leetcode-/tree/master/0061-rotate-list) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/Prabhansh25/Leetcode-/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
