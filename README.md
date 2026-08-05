@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Prabhansh25/Leetcode-/tree/master/0004-median-of-two-sorted-arrays) |
+| [0015-3sum](https://github.com/Prabhansh25/Leetcode-/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/Prabhansh25/Leetcode-/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Prabhansh25/Leetcode-/tree/master/0118-pascals-triangle) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Prabhansh25/Leetcode-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -21,11 +22,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Prabhansh25/Leetcode-/tree/master/0015-3sum) |
 | [0061-rotate-list](https://github.com/Prabhansh25/Leetcode-/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/Prabhansh25/Leetcode-/tree/master/0088-merge-sorted-array) |
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Prabhansh25/Leetcode-/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/Prabhansh25/Leetcode-/tree/master/0088-merge-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Prabhansh25/Leetcode-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Heap (Priority Queue)
