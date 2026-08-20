@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Prabhansh25/Leetcode-/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/Prabhansh25/Leetcode-/tree/master/0136-single-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Prabhansh25/Leetcode-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Prabhansh25/Leetcode-/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -59,4 +60,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Prabhansh25/Leetcode-/tree/master/0231-power-of-two) |
+## Simulation
+|  |
+| ------- |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Prabhansh25/Leetcode-/tree/master/3069-distribute-elements-into-two-arrays-i) |
 <!---LeetCode Topics End-->
