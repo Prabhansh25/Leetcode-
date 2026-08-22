@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/Prabhansh25/Leetcode-/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/Prabhansh25/Leetcode-/tree/master/0231-power-of-two) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Prabhansh25/Leetcode-/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Bit Manipulation
 |  |
 | ------- |
