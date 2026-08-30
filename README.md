@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Prabhansh25/Leetcode-/tree/master/0217-contains-duplicate) |
 | [0260-single-number-iii](https://github.com/Prabhansh25/Leetcode-/tree/master/0260-single-number-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Prabhansh25/Leetcode-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Prabhansh25/Leetcode-/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Prabhansh25/Leetcode-/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Prabhansh25/Leetcode-/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Binary Search
@@ -101,4 +102,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Prabhansh25/Leetcode-/tree/master/0204-count-primes) |
+## Greedy
+|  |
+| ------- |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Prabhansh25/Leetcode-/tree/master/2091-removing-minimum-and-maximum-from-array) |
 <!---LeetCode Topics End-->
