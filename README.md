@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Prabhansh25/Leetcode-/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/Prabhansh25/Leetcode-/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Prabhansh25/Leetcode-/tree/master/0232-implement-queue-using-stacks) |
 ## Design
@@ -132,4 +133,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/Prabhansh25/Leetcode-/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Prabhansh25/Leetcode-/tree/master/3904-smallest-stable-index-ii) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Prabhansh25/Leetcode-/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Prabhansh25/Leetcode-/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
