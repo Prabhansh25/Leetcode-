@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Prabhansh25/Leetcode-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Prabhansh25/Leetcode-/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Prabhansh25/Leetcode-/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Prabhansh25/Leetcode-/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Prabhansh25/Leetcode-/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Prabhansh25/Leetcode-/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/Prabhansh25/Leetcode-/tree/master/3903-smallest-stable-index-i) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Prabhansh25/Leetcode-/tree/master/0231-power-of-two) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Prabhansh25/Leetcode-/tree/master/3483-unique-3-digit-even-numbers) |
 ## Simulation
 |  |
 | ------- |
@@ -91,11 +93,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/Prabhansh25/Leetcode-/tree/master/0217-contains-duplicate) |
 | [0496-next-greater-element-i](https://github.com/Prabhansh25/Leetcode-/tree/master/0496-next-greater-element-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Prabhansh25/Leetcode-/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Prabhansh25/Leetcode-/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Enumeration
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Prabhansh25/Leetcode-/tree/master/0204-count-primes) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Prabhansh25/Leetcode-/tree/master/3483-unique-3-digit-even-numbers) |
 ## Number Theory
 |  |
 | ------- |
