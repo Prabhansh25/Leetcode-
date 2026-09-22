@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/Prabhansh25/Leetcode-/tree/master/0907-sum-of-subarray-minimums) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Prabhansh25/Leetcode-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Prabhansh25/Leetcode-/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2104-sum-of-subarray-ranges](https://github.com/Prabhansh25/Leetcode-/tree/master/2104-sum-of-subarray-ranges) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Prabhansh25/Leetcode-/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Prabhansh25/Leetcode-/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Prabhansh25/Leetcode-/tree/master/3483-unique-3-digit-even-numbers) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Prabhansh25/Leetcode-/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Prabhansh25/Leetcode-/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/Prabhansh25/Leetcode-/tree/master/0907-sum-of-subarray-minimums) |
+| [2104-sum-of-subarray-ranges](https://github.com/Prabhansh25/Leetcode-/tree/master/2104-sum-of-subarray-ranges) |
 ## Design
 |  |
 | ------- |
@@ -177,4 +179,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Prabhansh25/Leetcode-/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Prabhansh25/Leetcode-/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/Prabhansh25/Leetcode-/tree/master/0907-sum-of-subarray-minimums) |
+| [2104-sum-of-subarray-ranges](https://github.com/Prabhansh25/Leetcode-/tree/master/2104-sum-of-subarray-ranges) |
 <!---LeetCode Topics End-->
