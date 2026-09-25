@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Prabhansh25/Leetcode-/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Prabhansh25/Leetcode-/tree/master/0217-contains-duplicate) |
 | [0260-single-number-iii](https://github.com/Prabhansh25/Leetcode-/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/Prabhansh25/Leetcode-/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/Prabhansh25/Leetcode-/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Prabhansh25/Leetcode-/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Prabhansh25/Leetcode-/tree/master/0540-single-element-in-a-sorted-array) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Prabhansh25/Leetcode-/tree/master/0004-median-of-two-sorted-arrays) |
+| [0268-missing-number](https://github.com/Prabhansh25/Leetcode-/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Prabhansh25/Leetcode-/tree/master/0540-single-element-in-a-sorted-array) |
 ## Divide and Conquer
 |  |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Prabhansh25/Leetcode-/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/Prabhansh25/Leetcode-/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Prabhansh25/Leetcode-/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Prabhansh25/Leetcode-/tree/master/0268-missing-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Prabhansh25/Leetcode-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -83,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Prabhansh25/Leetcode-/tree/master/0066-plus-one) |
 | [0204-count-primes](https://github.com/Prabhansh25/Leetcode-/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Prabhansh25/Leetcode-/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Prabhansh25/Leetcode-/tree/master/0268-missing-number) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Prabhansh25/Leetcode-/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Prabhansh25/Leetcode-/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Prabhansh25/Leetcode-/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -96,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Prabhansh25/Leetcode-/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Prabhansh25/Leetcode-/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/Prabhansh25/Leetcode-/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/Prabhansh25/Leetcode-/tree/master/0268-missing-number) |
 ## Recursion
 |  |
 | ------- |
@@ -113,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Prabhansh25/Leetcode-/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/Prabhansh25/Leetcode-/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Prabhansh25/Leetcode-/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/Prabhansh25/Leetcode-/tree/master/0496-next-greater-element-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Prabhansh25/Leetcode-/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Prabhansh25/Leetcode-/tree/master/3718-smallest-missing-multiple-of-k) |
