@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Prabhansh25/Leetcode-/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/Prabhansh25/Leetcode-/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Prabhansh25/Leetcode-/tree/master/0118-pascals-triangle) |
 | [0907-sum-of-subarray-minimums](https://github.com/Prabhansh25/Leetcode-/tree/master/0907-sum-of-subarray-minimums) |
 ## Math
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Prabhansh25/Leetcode-/tree/master/0002-add-two-numbers) |
 | [0029-divide-two-integers](https://github.com/Prabhansh25/Leetcode-/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/Prabhansh25/Leetcode-/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/Prabhansh25/Leetcode-/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/Prabhansh25/Leetcode-/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Prabhansh25/Leetcode-/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Prabhansh25/Leetcode-/tree/master/0268-missing-number) |
@@ -197,4 +199,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Prabhansh25/Leetcode-/tree/master/0128-longest-consecutive-sequence) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Prabhansh25/Leetcode-/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
