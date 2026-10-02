@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Prabhansh25/Leetcode-/tree/master/0020-valid-parentheses) |
+| [0058-length-of-last-word](https://github.com/Prabhansh25/Leetcode-/tree/master/0058-length-of-last-word) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Prabhansh25/Leetcode-/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Prabhansh25/Leetcode-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [3498-reverse-degree-of-a-string](https://github.com/Prabhansh25/Leetcode-/tree/master/3498-reverse-degree-of-a-string) |
