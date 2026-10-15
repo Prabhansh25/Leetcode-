@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Prabhansh25/Leetcode-/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Prabhansh25/Leetcode-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0735-asteroid-collision](https://github.com/Prabhansh25/Leetcode-/tree/master/0735-asteroid-collision) |
+| [0860-lemonade-change](https://github.com/Prabhansh25/Leetcode-/tree/master/0860-lemonade-change) |
 | [0907-sum-of-subarray-minimums](https://github.com/Prabhansh25/Leetcode-/tree/master/0907-sum-of-subarray-minimums) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Prabhansh25/Leetcode-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Prabhansh25/Leetcode-/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Prabhansh25/Leetcode-/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/Prabhansh25/Leetcode-/tree/master/0860-lemonade-change) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Prabhansh25/Leetcode-/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Stack
 |  |
