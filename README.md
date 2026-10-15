@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Prabhansh25/Leetcode-/tree/master/0217-contains-duplicate) |
 | [0260-single-number-iii](https://github.com/Prabhansh25/Leetcode-/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Prabhansh25/Leetcode-/tree/master/0268-missing-number) |
+| [0455-assign-cookies](https://github.com/Prabhansh25/Leetcode-/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/Prabhansh25/Leetcode-/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Prabhansh25/Leetcode-/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Prabhansh25/Leetcode-/tree/master/0540-single-element-in-a-sorted-array) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Prabhansh25/Leetcode-/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Prabhansh25/Leetcode-/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/Prabhansh25/Leetcode-/tree/master/0088-merge-sorted-array) |
+| [0455-assign-cookies](https://github.com/Prabhansh25/Leetcode-/tree/master/0455-assign-cookies) |
 ## Sorting
 |  |
 | ------- |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Prabhansh25/Leetcode-/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Prabhansh25/Leetcode-/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Prabhansh25/Leetcode-/tree/master/0268-missing-number) |
+| [0455-assign-cookies](https://github.com/Prabhansh25/Leetcode-/tree/master/0455-assign-cookies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Prabhansh25/Leetcode-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -148,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/Prabhansh25/Leetcode-/tree/master/0455-assign-cookies) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Prabhansh25/Leetcode-/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Stack
 |  |
@@ -210,4 +214,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Prabhansh25/Leetcode-/tree/master/0070-climbing-stairs) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/Prabhansh25/Leetcode-/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
