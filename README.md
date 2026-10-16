@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Prabhansh25/Leetcode-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Prabhansh25/Leetcode-/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/Prabhansh25/Leetcode-/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/Prabhansh25/Leetcode-/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Prabhansh25/Leetcode-/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Prabhansh25/Leetcode-/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Prabhansh25/Leetcode-/tree/master/0118-pascals-triangle) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Prabhansh25/Leetcode-/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/Prabhansh25/Leetcode-/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Prabhansh25/Leetcode-/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Prabhansh25/Leetcode-/tree/master/0118-pascals-triangle) |
 | [0907-sum-of-subarray-minimums](https://github.com/Prabhansh25/Leetcode-/tree/master/0907-sum-of-subarray-minimums) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Prabhansh25/Leetcode-/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/Prabhansh25/Leetcode-/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/Prabhansh25/Leetcode-/tree/master/0860-lemonade-change) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Prabhansh25/Leetcode-/tree/master/2091-removing-minimum-and-maximum-from-array) |
