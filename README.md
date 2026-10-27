@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Prabhansh25/Leetcode-/tree/master/0136-single-number) |
 | [0204-count-primes](https://github.com/Prabhansh25/Leetcode-/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Prabhansh25/Leetcode-/tree/master/0217-contains-duplicate) |
+| [0239-sliding-window-maximum](https://github.com/Prabhansh25/Leetcode-/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/Prabhansh25/Leetcode-/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Prabhansh25/Leetcode-/tree/master/0268-missing-number) |
 | [0435-non-overlapping-intervals](https://github.com/Prabhansh25/Leetcode-/tree/master/0435-non-overlapping-intervals) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Prabhansh25/Leetcode-/tree/master/0239-sliding-window-maximum) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Prabhansh25/Leetcode-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Linked List
 |  |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Prabhansh25/Leetcode-/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Prabhansh25/Leetcode-/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/Prabhansh25/Leetcode-/tree/master/0239-sliding-window-maximum) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -229,4 +232,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Prabhansh25/Leetcode-/tree/master/0455-assign-cookies) |
+## Sliding Window
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Prabhansh25/Leetcode-/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Prabhansh25/Leetcode-/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Prabhansh25/Leetcode-/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
