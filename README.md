@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Prabhansh25/Leetcode-/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/Prabhansh25/Leetcode-/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/Prabhansh25/Leetcode-/tree/master/0055-jump-game) |
+| [0057-insert-interval](https://github.com/Prabhansh25/Leetcode-/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/Prabhansh25/Leetcode-/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Prabhansh25/Leetcode-/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Prabhansh25/Leetcode-/tree/master/0118-pascals-triangle) |
