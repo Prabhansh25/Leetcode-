@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Prabhansh25/Leetcode-/tree/master/0268-missing-number) |
 | [0435-non-overlapping-intervals](https://github.com/Prabhansh25/Leetcode-/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Prabhansh25/Leetcode-/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Prabhansh25/Leetcode-/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0496-next-greater-element-i](https://github.com/Prabhansh25/Leetcode-/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Prabhansh25/Leetcode-/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Prabhansh25/Leetcode-/tree/master/0540-single-element-in-a-sorted-array) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Prabhansh25/Leetcode-/tree/master/0268-missing-number) |
 | [0435-non-overlapping-intervals](https://github.com/Prabhansh25/Leetcode-/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Prabhansh25/Leetcode-/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Prabhansh25/Leetcode-/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Prabhansh25/Leetcode-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Prabhansh25/Leetcode-/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Heap (Priority Queue)
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Prabhansh25/Leetcode-/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Prabhansh25/Leetcode-/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Prabhansh25/Leetcode-/tree/master/0268-missing-number) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Prabhansh25/Leetcode-/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Prabhansh25/Leetcode-/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Prabhansh25/Leetcode-/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Prabhansh25/Leetcode-/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
