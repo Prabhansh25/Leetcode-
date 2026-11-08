@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Prabhansh25/Leetcode-/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Prabhansh25/Leetcode-/tree/master/0042-trapping-rain-water) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Prabhansh25/Leetcode-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0155-min-stack](https://github.com/Prabhansh25/Leetcode-/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Prabhansh25/Leetcode-/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Prabhansh25/Leetcode-/tree/master/0232-implement-queue-using-stacks) |
@@ -264,4 +265,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Prabhansh25/Leetcode-/tree/master/0239-sliding-window-maximum) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Prabhansh25/Leetcode-/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Prabhansh25/Leetcode-/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Prabhansh25/Leetcode-/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
