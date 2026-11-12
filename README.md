@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Prabhansh25/Leetcode-/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Prabhansh25/Leetcode-/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Prabhansh25/Leetcode-/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Prabhansh25/Leetcode-/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Prabhansh25/Leetcode-/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Prabhansh25/Leetcode-/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Prabhansh25/Leetcode-/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
