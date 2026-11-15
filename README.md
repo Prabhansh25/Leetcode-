@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Prabhansh25/Leetcode-/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/Prabhansh25/Leetcode-/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Prabhansh25/Leetcode-/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Prabhansh25/Leetcode-/tree/master/0349-intersection-of-two-arrays) |
 | [0435-non-overlapping-intervals](https://github.com/Prabhansh25/Leetcode-/tree/master/0435-non-overlapping-intervals) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Prabhansh25/Leetcode-/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/Prabhansh25/Leetcode-/tree/master/0455-assign-cookies) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Prabhansh25/Leetcode-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0268-missing-number](https://github.com/Prabhansh25/Leetcode-/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Prabhansh25/Leetcode-/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Prabhansh25/Leetcode-/tree/master/0540-single-element-in-a-sorted-array) |
 ## Divide and Conquer
 |  |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Prabhansh25/Leetcode-/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Prabhansh25/Leetcode-/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/Prabhansh25/Leetcode-/tree/master/0088-merge-sorted-array) |
+| [0349-intersection-of-two-arrays](https://github.com/Prabhansh25/Leetcode-/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/Prabhansh25/Leetcode-/tree/master/0455-assign-cookies) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Prabhansh25/Leetcode-/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Sorting
@@ -80,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Prabhansh25/Leetcode-/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Prabhansh25/Leetcode-/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Prabhansh25/Leetcode-/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Prabhansh25/Leetcode-/tree/master/0349-intersection-of-two-arrays) |
 | [0435-non-overlapping-intervals](https://github.com/Prabhansh25/Leetcode-/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Prabhansh25/Leetcode-/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Prabhansh25/Leetcode-/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -151,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Prabhansh25/Leetcode-/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/Prabhansh25/Leetcode-/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Prabhansh25/Leetcode-/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Prabhansh25/Leetcode-/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/Prabhansh25/Leetcode-/tree/master/0496-next-greater-element-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Prabhansh25/Leetcode-/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Prabhansh25/Leetcode-/tree/master/3718-smallest-missing-multiple-of-k) |
