@@ -4,11 +4,7 @@ class Solution {
         Arrays.sort(nums) ;
        int a = nums[0]*nums[1]*nums[n-1] ;
         int b = nums[n-3]*nums[n-2]*nums[n-1] ;
-if(a>b){
-    return a ;
-}
-else {return b ;
-    }
+return Math.max(a,b);
 
 }
 }
